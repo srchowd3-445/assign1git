@@ -5,3 +5,6 @@ First comment!
 Second comment. Now with more spacing.
 
 new git branch on GitHub
+
+This is a change on new branch
+
